@@ -66,3 +66,7 @@ pnpm dev --host
    - If it's your turn, pick a word from the 3 choices and draw it on the canvas.
    - If someone else is drawing, type your guesses into the chat box. Guess quickly to earn more points!
 5. **Win**: The player with the most points at the end of all rounds takes the gold medal on the podium!
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
